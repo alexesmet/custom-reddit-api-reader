@@ -7,7 +7,8 @@ pub struct Configuration {
     pub client_id: String,
     pub secret_token: String,
     pub username: String,
-    pub password: String
+    pub password: String,
+    pub output_path: String
 }
 
 
